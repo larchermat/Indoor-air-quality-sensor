@@ -40,4 +40,4 @@ The code is structured as follows:
 
 ## The physical part
 
-The physical device is made a box containing the raspberry pi 3, a breadboard and some cables. On the back of the container there's a cut to let out the sensor and on the front we have the led strip
+The physical device is made a box containing the raspberry pi 4, a breadboard and some cables. On the back of the container there's a cut to let out the sensor and on the front we have the led strip
